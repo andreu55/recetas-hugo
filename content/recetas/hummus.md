@@ -20,7 +20,7 @@ draft: false
 > - Aceite de oliva virgen extra (opcional)
 
 > ## Preparación
-> 0. (ayer) Dejar a remojo los garbanzos entre 8 y 12 horas y tirar el agua (para quitar algunos oligosacáridos)
+> 0. (ayer) Dejar a remojo los garbanzos entre 8 y 12 horas y tirar el agua (para quitar algunos oligosacáridos, que dan pedetes)
 > 1. Escurrir y lavar los garbanzos cocidos
 > 2. Pelar el diente de ajo
 > 3. Exprimir el limón para obtener su jugo
