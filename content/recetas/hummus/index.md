@@ -7,7 +7,7 @@ tags: [mediterráneo, fácil]
 draft: false
 ---
 
-![Chickpea hummus in a wooden bowl garnished with parsley, paprika and olive oil. Close up](/images/hummus.jpg)
+![Chickpea hummus in a wooden bowl garnished with parsley, paprika and olive oil. Close up](featured.jpg)
 
 > ## Ingredientes 
 > - 400 g garbanzos cocidos
