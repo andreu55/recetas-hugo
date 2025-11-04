@@ -4,21 +4,23 @@ title: Hummus Clásico
 date: 2025-09-16
 category: [aperitivos, vegano]
 tags: [mediterráneo, fácil]
+draft: false
 ---
 
-![Chickpea hummus in a wooden bowl garnished with parsley, paprika and olive oil. Close up](/images/hummus.jpg "Hummus")
+![Chickpea hummus in a wooden bowl garnished with parsley, paprika and olive oil. Close up](/images/hummus.jpg)
 
 > ## Ingredientes 
 > - 400 g garbanzos cocidos
 > - 2 cucharadas tahini
 > - 2 cucharadas comino molido
 > - 1 cucharada estragón (mi ingrediente secreto)
-> - 1 diente de ajo
-> - Zumo de 1 limón o 1 cucharada de vinagre
+> - 1 diente de ajo (o 2, si estás aventurero)
+> - Zumo de 1 limón o 2 cucharadas de vinagre
 > - Sal, oregano y pimienta al gusto
-> - Aceite de oliva virgen extra
+> - Aceite de oliva virgen extra (opcional)
 
 > ## Preparación
+> 0. (ayer) Dejar a remojo los garbanzos entre 8 y 12 horas y tirar el agua (para quitar algunos oligosacáridos)
 > 1. Escurrir y lavar los garbanzos cocidos
 > 2. Pelar el diente de ajo
 > 3. Exprimir el limón para obtener su jugo
@@ -27,4 +29,6 @@ tags: [mediterráneo, fácil]
 > 6. Ajustar de sal si es necesario
 > 7. Servir con un chorrito de aceite de oliva por encima o pimentón de la vera
 
-**Nota:** Si la consistencia queda muy espesa, añadir un poco de agua de la cocción de los garbanzos o más aceite de oliva.
+## Truquis 👀
+- Durante la cocción de los garbanzos, quita la espuma si tienes problemas con las saponinas (pueden ser un poco irritantes para el intestino en algunas personas)
+- Si usas el agua de la cocción de los garbanzos queda muy cremoso y te puedes ahorrar el aceite

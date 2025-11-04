@@ -7,6 +7,8 @@ languageCode = "es"
 title = "Mis Recetas Veganas"
 theme = "blowfish"
 
+canonifyURLs = true
+
 defaultContentLanguage = "es"
 archetypeDir = "archetypes"
 
@@ -24,7 +26,7 @@ enableEmoji = true
 
 [author]
   name = "Andreu"
-  headline = "Cocinero vegano, developer y agroforestero"
+  headline = "Developer, cocinero y agroforestero"
 
 [pagination]
   pagerSize = 100
