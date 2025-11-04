@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediterráneo on Las recetas de Andreu</title>
+    <link>http://localhost:1313/recetas-veganas/tags/mediterr%C3%A1neo/</link>
+    <description>Recent content in Mediterráneo on Las recetas de Andreu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/recetas-veganas/tags/mediterr%C3%A1neo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hummus Clásico</title>
+      <link>http://localhost:1313/recetas-veganas/recetas/2025-09-16-hummus/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/recetas-veganas/recetas/2025-09-16-hummus/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
