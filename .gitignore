@@ -1,0 +1,35 @@
+# Generated files by Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Temporary files
+*.log
+*.lock
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (if using npm/yarn for themes or tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
