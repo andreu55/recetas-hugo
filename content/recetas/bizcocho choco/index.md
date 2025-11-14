@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bizcocho de chocolate vegano
+title: Bizcocho de chocolate
 date: 2025-09-21
-category: [bizcocho, postre]
-tags: [bizcocho, chocolate, vegano]
+# category: [bizcocho, postre]
+tags: [postre, bizcocho, chocolate]
 ---
 
 ![Bizcocho de chocolate](featured.jpg)
 
 > 💚 Vegano
-> 🍃 Aireado
+> 🍃 Textura de brownie esponjoso
 > 🌽 Poco trigo 
 
 > ## Ingredientes
