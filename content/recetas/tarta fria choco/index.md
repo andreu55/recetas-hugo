@@ -10,15 +10,16 @@ draft: false
 
 > ## Ingredientes — Base (piso inferior)
 > - 250 g de dátiles sin hueso (remojados 10 min si están muy secos)  
-> - 120 g de nueces (o cacahuetes tostados, almendras, macadamias, etc.) (con o sin sal, según tu vibra)
+> - 120 g de nueces (o cacahuetes tostados, almendras, avellanas...)
 > - (Opcional) Medio plátano maduro (si lo tienes por la nevera y no sabes qué hacer con él)
-> - Pizca de sal marina
+> - Pizca de sal marina (si quieres un punch mágico)
 
 > ## Ingredientes — Capa de chocolate (piso superior)
 > - 400 ml de leche de coco (parte entera, si puedes)
-> - 200 g de chocolate 70% o más!
-> - (Opcional) 10 g de aceite de coco (máximo 20g si quieres que aguante un rato fuera de la nevera)
-> - (Opcional) 1 cucharada de maicena
+> - 200 g de chocolate de más de 70%
+> - (Opcional 1/3 y preferido) 10 g de aceite de coco (solidifica al enfriarse y da cuerpo sin perder cremosidad)
+> - (Opcional 2/3) 1 cucharada de maicena (Si quieres una textura suave y estable, pero no rígida)
+> - (Opcional 3/3) 1 cucharadita de agar-agar (Si quieres que la tarta quede sólida, tirando a gelatina, para transportarla por ejemplo)
 
 > ## Preparación
 > 1. Triturar los dátiles hasta obtener una pasta pegajosa.  
