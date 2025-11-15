@@ -8,19 +8,21 @@ draft: false
 
 ![Magdalenas veganas esponjosas con trocitos de chocolate](featured.jpg)
 
-> ## Ingredientes — Secos
+## Ingredientes
+> ### — Secos
 > - 140 g harina de fuerza y 60 g maicena (o 200 g de harina sin gluten del mercadona) (200 g de harina de trigo)
 > - 15 g cacao/algarroba en polvo
 > - 1 sobre de levadura Royal (16 g)
 > - 90 g de azúcar (o 70 g panela + 20 g azúcar blanco + 1 g stevia)
 > - 1 pizca de sal
-
-> ## Ingredientes — Líquidos
+> ### — Líquidos
 > - 185-190 g bebida de avena (empezar con 185 g y ajustar, tiene que quedar como un yogur griego denso)
 > - 2 g de vainilla líquida
 > - 80 g de aceite de girasol (o 30 g de coco + 50 g de girasol)
 > - (Opcional) 1 cucharadita de vinagre de manzana (para activar aún más el gasificante)
 > - (Opcional) Trocitos de chocolate por encima
+
+![Magdalenas veganas esponjosas con trocitos de chocolate 2](2.jpg)
 
 > ## Preparación
 > 1. Precalentar el horno a 200°C con calor arriba y abajo.
@@ -40,3 +42,5 @@ draft: false
 ## Notas
 - Las magdalenas se conservan en un recipiente hermético hasta 3 días a temperatura ambiente.
 - También se pueden congelar. Para descongelar, déjalas a temperatura ambiente o caliéntalas unos segundos en el microondas.
+
+![Magdalenas veganas esponjosas con trocitos de chocolate 1](1.jpg)

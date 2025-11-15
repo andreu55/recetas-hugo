@@ -22,8 +22,6 @@ draft: false
 > - (Opcional 2/3) 1 cucharada de maicena (Si quieres una textura suave y estable, pero no rígida)
 > - (Opcional 3/3) 1 cucharadita de agar-agar (Si quieres que la tarta quede sólida, tirando a gelatina, para transportarla por ejemplo)
 
-(Opcional 3/3) 1 cucharadita de agar-agar (Si quieres que la tarta quede sólida, tirando a gelatina, para transportarla por ejemplo) (Opcional 3/3) 1 cucharadita de agar-agar (Si quieres que la tarta quede sólida, tirando a gelatina, para transportarla por ejemplo)
-
 > ## Preparación
 > 1. Triturar los dátiles hasta obtener una pasta pegajosa.  
 > 2. Añadir los cacahuetes (y el plátano si lo usas) y procesar hasta lograr una masa compactable.  
