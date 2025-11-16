@@ -3,7 +3,7 @@ layout: post
 title: Bizcocho de chocolate
 date: 2025-09-21
 # category: [bizcocho, postre]
-tags: [postre, bizcocho, chocolate]
+tags: [postre, bizcocho, chocolate, panificadora]
 ---
 
 ![Bizcocho de chocolate](featured.jpg)
@@ -12,7 +12,8 @@ tags: [postre, bizcocho, chocolate]
 > 🍃 Textura de brownie esponjoso
 > 🌽 Poco trigo 
 
-> ## Ingredientes
+## Ingredientes
+> ### Secos
 > - 150 g harina de trigo blanca
 > - 90 g harina de avena
 > - 50 g almidón de tapioca/maicena
@@ -23,13 +24,15 @@ tags: [postre, bizcocho, chocolate]
 > - ½ cdita bicarbonato (extra aireado opcional)
 > - 1 pizca de sal marina
 > 
+> ### Líquidos
 > - 310 ml bebida vegetal chocoavena
-> - 1 “huevo” vegano (1 cda de chía + 3 cdas agua, dejar 10 min), o bien 50 g de puré de manzana o plátano maduro
-> 
+> - 1 “huevo” vegano (1 cda de chía + 3 cdas agua, dejar 10 min), o bien 50 g de puré de manzana o plátano maduro 
 > - 70-80 ml aceite
 > - 1 cdita vinagre de manzana
 
-### ⚙️ Panificadora 
+![Bizcocho de chocolate](1.jpg)
+
+## ⚙️ Panificadora 
 
 > 1. **Mezclado manual**:
 >    - Mezclar los secos en un bol con las varillas/espumador
@@ -44,8 +47,10 @@ tags: [postre, bizcocho, chocolate]
 >    - Deja enfriar dentro 10 min con tapa abierta antes de desmoldar (así no se rompe al sacarlo).
 >    - Deja enfriar sobre rejilla para que no se apelmace.
 
-### 🌟 Trucos para que quede bien alto y esponjoso
+## 🌟 Trucos
 
 - **Tamiza cacao y harinas** → burbujas más finas.
 - **Vinagre + bicarbonato + levadura química** → la triple reacción para máximo aireado.
 - Si quieres corteza más suave, cúbrelo con un paño de algodón 5–10 min al sacarlo.
+
+![Bizcocho de chocolate](2.jpg)

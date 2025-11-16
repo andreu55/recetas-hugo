@@ -36,5 +36,5 @@ draft: false
 > 11. Refrigerar al menos 4 horas; idealmente toda la noche.
 
 ## Tips 🎨
-- (Recomendado)Decora con cacao en polvo o cacahuetes troceados.
+- (Recomendado) Decora con cacao en polvo con un colador.
 - Añade vainilla o ralladura de naranja a la capa de chocolate.  
