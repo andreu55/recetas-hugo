@@ -8,21 +8,22 @@ draft: false
 
 ![Tarta de chocolate de dos capas con base de dátiles y cacahuetes, y cobertura de coco y chocolate](featured.jpg)
 
-> ## Ingredientes — Base (piso inferior)
+## Ingredientes
+> ### Base
 > - 250 g de dátiles sin hueso (remojados 10 min si están muy secos)  
 > - 120 g de nueces (o cacahuetes tostados, almendras, avellanas...)
 > - (Opcional) Medio plátano maduro (si lo tienes por la nevera y no sabes qué hacer con él)
 > - (Opcional) Una cucharada de mantequilla de cacahuete (si te falta densidad)
 > - Pizca de sal marina (si quieres un punch mágico)
 
-> ## Ingredientes — Capa de chocolate (piso superior)
+> ### Capa de chocolate
 > - 400 ml de leche de coco (parte entera, si puedes)
 > - 200 g de chocolate +70%
 > - (Opcional 1/3 y preferido) 10 g de aceite de coco (solidifica al enfriarse y da cuerpo sin perder cremosidad)
 > - (Opcional 2/3) 1 cucharada de maicena (Si quieres una textura suave y estable, pero no rígida)
 > - (Opcional 3/3) 1 cucharadita de agar-agar (Si quieres que la tarta quede sólida, tirando a gelatina, para transportarla por ejemplo)
 
-> ## Preparación
+## Preparación
 > 1. Triturar los dátiles hasta obtener una pasta pegajosa.  
 > 2. Añadir los cacahuetes (y el plátano si lo usas) y procesar hasta lograr una masa compactable.  
 > 3. Forrar el molde con papel vegetal y presionar la mezcla en el fondo.  
